@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 code added
+=======
+>>>>>>> parent of b2336b7 (one line added)
