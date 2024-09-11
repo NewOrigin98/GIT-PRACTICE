@@ -3,4 +3,6 @@ code added
 by mistake
 
 =======
+>>>>>>> parent of 1085f7f (before)
+=======
 >>>>>>> parent of b2336b7 (one line added)
