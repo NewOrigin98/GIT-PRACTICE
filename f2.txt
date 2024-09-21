@@ -1,2 +1,6 @@
 new liner
+<<<<<<< HEAD
 1) code added and pushed to master
+
+1) code added and pushed to new branch
+>>>>>>> new
