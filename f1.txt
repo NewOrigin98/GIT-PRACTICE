@@ -1,7 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 diff command 
 code added
 by mistake
 
 >>>>>>> bug-fix-one
+=======
+>>>>>>> new_branch
