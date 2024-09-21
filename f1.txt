@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 diff command 
+code added
+>>>>>>> 299727bc6bbd51264329132e1d94612bd1a977bd
