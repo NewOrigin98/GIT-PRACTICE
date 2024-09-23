@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
 
@@ -8,3 +9,7 @@ by mistake
 >>>>>>> bug-fix-one
 =======
 >>>>>>> new_branch
+=======
+rfgf
+diff command 
+>>>>>>> Stashed changes
