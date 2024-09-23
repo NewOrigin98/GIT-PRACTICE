@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-
-1) code added and pushed to master
-ff
-1) code added and pushed to new branch
->>>>>>> new
-
->>>>>>> parent of 191f575 (second commit)
-
