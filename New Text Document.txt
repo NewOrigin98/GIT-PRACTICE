@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 conflict line
+
+nw line
+>>>>>>> new
